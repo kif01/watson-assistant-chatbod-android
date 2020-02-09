@@ -1,8 +1,9 @@
 # A voice-enabled Android ChatBot app powered by IBM Watson
 
-## Architecture
+## Flow
 
-<img width="807" alt="Screen Shot 2020-02-09 at 6 25 18 PM" src="https://user-images.githubusercontent.com/15332386/74103942-b7788680-4b69-11ea-8bb0-f0303d7dfe08.png">
+<img width="628" alt="Screen Shot 2020-02-09 at 9 39 36 PM" src="https://user-images.githubusercontent.com/15332386/74107070-ce2cd680-4b85-11ea-8990-312caaa70391.png">
+
 
 ## Screenshots
 ![Screenshot_20200207-125437](https://user-images.githubusercontent.com/15332386/74103704-c52d0c80-4b67-11ea-80b7-3c386912b641.jpg)
