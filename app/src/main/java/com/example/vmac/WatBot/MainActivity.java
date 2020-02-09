@@ -166,9 +166,9 @@ public class MainActivity extends AppCompatActivity {
             public boolean onTouch(View v, MotionEvent event) {
                 if(event.getAction() == MotionEvent.ACTION_DOWN) {
                     ObjectAnimator scaleDownX = ObjectAnimator.ofFloat(btnRecord,
-                            "scaleX", 1.75f);
+                            "scaleX", 1.80f);
                     ObjectAnimator scaleDownY = ObjectAnimator.ofFloat(btnRecord,
-                            "scaleY", 1.75f);
+                            "scaleY", 1.80f);
                     scaleDownX.setDuration(100);
                     scaleDownY.setDuration(100);
                     AnimatorSet scaleDown = new AnimatorSet();
