@@ -1,5 +1,7 @@
 # A voice-enabled Android ChatBot app powered by IBM Watson
 
+This android app uses Speech to Text, Text to Speech and Watson assistant services to communicate with a virtual restaurant called " Cranberry". Users can book a table, ask for general information about the restaurant (opening hours, location...), check the menu and more. 
+
 ## Flow
 
 <img width="628" alt="Screen Shot 2020-02-09 at 9 39 36 PM" src="https://user-images.githubusercontent.com/15332386/74107070-ce2cd680-4b85-11ea-8990-312caaa70391.png">
